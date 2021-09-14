@@ -1,0 +1,13 @@
+.slider_item {
+  width: 100%;
+  height: 100%;
+  transition: 0.1s;
+  background-color: white;
+  
+}
+
+
+.slider_image {
+  width: 1583px;
+  height: auto;
+}

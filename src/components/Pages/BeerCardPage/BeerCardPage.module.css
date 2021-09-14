@@ -1,0 +1,52 @@
+.beerCardPage {
+  margin: 0px 0px 100px 0px;
+  padding: 220px 210px 50px 250px;
+
+  background-image: url("../../../assets/images/background.jpeg");
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+.beerIconContainer {
+  width: 450px;
+  height: 450px;
+  margin: 35px;
+  background-color: white;
+  border: 1px solid gray;
+}
+.beerIcon {
+  height: 90%;
+  margin: auto;
+  padding: 25px;
+}
+.beerInfo {
+  width: 50%;
+  margin: 20px 150px 20px 50px;
+  text-align: left;
+  font-family: HelveticaNeue;
+  color: gray;
+}
+table {
+  width: 100%;
+  border: none;
+}
+th {
+  vertical-align: top;
+}
+td {
+  padding-left: 100px;
+}
+
+.beerDescription {
+  text-indent: 20px;
+  text-align: justify;
+  padding-bottom: 15px;
+}
+.beerNameText {
+  font-family: BebasKai, serif;
+  font-size: 40px;
+  color: gray;
+}

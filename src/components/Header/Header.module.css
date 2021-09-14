@@ -1,17 +1,72 @@
 .header {
-  grid-area: h;
-  background-color: rgb(228, 175, 223);
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 200px;
+  transition-timing-function: ease-in;
+  transition: 0.5s;
+  background-image: url("../../assets/images/headerBackground.jpeg");
+  display: flex;
 }
 
-.header img {
-  width: 20px;
+.headerUp {
+  top: 0;
+}
+.headerDown {
+  top: -160px;
 }
 
-.loginBlock{
-  float: right;
-  color: white;
+.headerLinks {
+  display: flex;
+  justify-content: space-around;
+  min-width: 50%;
 }
-.loginBlock a {
-  text-decoration: none; 
-  color: white;
+.headerLinksUp a {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+.headerLinksDown a {
+  margin-top: 37px;
+  font-size: 25px;
+}
+.headerLinks a {
+  font-family: BebasKai, serif;
+  color: #cab02d;
+  text-decoration: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.searchAndLinks {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+  width: 100%;
+}
+.searchGroup {
+  height: 100%;
+  width: 100%;
+  padding: 0px 30px 0px;
+}
+
+.homePageIcon {
+  height: 130px;
+  padding: 5px;
+  margin: 0px 0px 15px 60px;
+  transition-timing-function: ease-in;
+  transition: 0.5s;
+}
+.homePageIcon:hover {
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.homePageIconUp {
+  margin-top: 30px;
+}
+.homePageIconDown {
+  margin-top: 10px;
 }

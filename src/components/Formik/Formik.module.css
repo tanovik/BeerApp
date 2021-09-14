@@ -1,0 +1,88 @@
+.slider {
+  padding: 10px;
+  width: 45%;
+}
+.buttonStartPage {
+  margin: 30px 450px 30px 0px;
+  min-width: 30%;
+  min-height: 44%;
+  text-align: center;
+  color: #cab02d;
+  background-color: #eeeeee;
+  border: 2px solid #cab02d;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.searchInputStartPage {
+  margin: 30px 0px 30px 420px;
+  min-width: 70%;
+  padding: 10px 15px 10px 20px;
+  border: 2px solid #cab02d;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: #eeeeee;
+  font-family: BebasKai, serif;
+  font-size: 15px;
+  color: #cab02d;
+}
+.searchInputStartPage:focus {
+  border: 2px solid gray;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: #eeeeee;
+  color: gray;
+}
+
+.searchGroupStartPage {
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+
+.inputField {
+  width: 80%;
+  padding-left: 15px;
+  padding: 10px;
+  margin: 10px;
+  color: gray;
+}
+.selectField {
+  width: 80%;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 15px;
+  border: none;
+  color: gray;
+}
+.dateField {
+  width: 80%;
+  padding: 5px;
+  padding-bottom: 0px;
+  margin: 5px;
+  border: none;
+  color: gray;
+}
+.formikInputTitle {
+  width: 80%;
+  padding: 10px;
+  padding-bottom: 0px;
+  margin: 10px;
+  border: none;
+  color: #cab02d;
+}
+
+.submitButton {
+  height: 25%;
+  width: 30%;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  color: #cab02d;
+  background-color: #eeeeee;
+  border: 1px solid gray;
+}
