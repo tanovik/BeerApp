@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/BeerApp/static/css/main.59d6626c.chunk.css",
+    "main.js": "/BeerApp/static/js/main.dbd6557d.chunk.js",
+    "main.js.map": "/BeerApp/static/js/main.dbd6557d.chunk.js.map",
+    "runtime-main.js": "/BeerApp/static/js/runtime-main.f86fbef7.js",
+    "runtime-main.js.map": "/BeerApp/static/js/runtime-main.f86fbef7.js.map",
+    "static/css/2.6bfe58bc.chunk.css": "/BeerApp/static/css/2.6bfe58bc.chunk.css",
+    "static/js/2.102dffd8.chunk.js": "/BeerApp/static/js/2.102dffd8.chunk.js",
+    "static/js/2.102dffd8.chunk.js.map": "/BeerApp/static/js/2.102dffd8.chunk.js.map",
+    "index.html": "/BeerApp/index.html",
+    "static/css/2.6bfe58bc.chunk.css.map": "/BeerApp/static/css/2.6bfe58bc.chunk.css.map",
+    "static/css/main.59d6626c.chunk.css.map": "/BeerApp/static/css/main.59d6626c.chunk.css.map",
+    "static/js/2.102dffd8.chunk.js.LICENSE.txt": "/BeerApp/static/js/2.102dffd8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/BeerApp/static/media/HelveticaNeue.d2d64b7b.ttf",
+    "static/media/HomePageBanner1.24f186a3.png": "/BeerApp/static/media/HomePageBanner1.24f186a3.png",
+    "static/media/HomePageBanner2.50c83cfa.png": "/BeerApp/static/media/HomePageBanner2.50c83cfa.png",
+    "static/media/HomePageBanner3.4183e1a9.png": "/BeerApp/static/media/HomePageBanner3.4183e1a9.png",
+    "static/media/HomePageIcon.10eac91d.png": "/BeerApp/static/media/HomePageIcon.10eac91d.png",
+    "static/media/allBeer.25d837ff.png": "/BeerApp/static/media/allBeer.25d837ff.png",
+    "static/media/AppBeer.css": "/BeerApp/static/media/background.f0eec6aa.jpeg",
+    "static/media/beerBottleIcon.8a767dd4.png": "/BeerApp/static/media/beerBottleIcon.8a767dd4.png",
+    "static/media/beersHorizontal.94ceffda.jpg": "/BeerApp/static/media/beersHorizontal.94ceffda.jpg",
+    "static/media/Header.module.css": "/BeerApp/static/media/headerBackground.bd863fa9.jpeg",
+    "static/media/instagramIcon.a49eed9e.png": "/BeerApp/static/media/instagramIcon.a49eed9e.png",
+    "static/media/twitterIcon.c0363983.png": "/BeerApp/static/media/twitterIcon.c0363983.png",
+    "static/media/worldBeer.cc8ab4c7.jpg": "/BeerApp/static/media/worldBeer.cc8ab4c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f86fbef7.js",
+    "static/css/2.6bfe58bc.chunk.css",
+    "static/js/2.102dffd8.chunk.js",
+    "static/css/main.59d6626c.chunk.css",
+    "static/js/main.dbd6557d.chunk.js"
+  ]
+}
