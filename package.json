@@ -1,5 +1,5 @@
 {
-  "homepage": "https://toisia.github.io/BeerApp",
+  "homepage": "https://tanovik.github.io/BeerApp",
   "name": "beer-app",
   "version": "0.1.0",
   "private": true,
@@ -41,7 +41,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
