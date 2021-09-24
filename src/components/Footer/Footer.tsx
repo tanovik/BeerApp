@@ -19,7 +19,9 @@ export const Footer: React.FC<PropsType> = () => {
         <div>
           <hr></hr>
         </div>
-        <div className={classes.lowTab}>2021. All Rights Reserved ©</div>
+        <div className={classes.lowTab}>
+          Copyright © 2021 Taisia Novikova. All rights reserved.
+        </div>
       </div>
     </div>
   );
