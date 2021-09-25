@@ -2,7 +2,7 @@
 
 <br/>
 
-### Демо можно посмотреть [тут](https://tanovik.github.io/BeerApp/home)
+### Демо можно посмотреть [тут](https://tanovik.github.io/BeerApp/)
 
 <br/>
 
